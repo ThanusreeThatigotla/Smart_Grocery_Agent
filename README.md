@@ -68,6 +68,6 @@ The Smart Grocery AI Agent solves these problems by providing an **AI-based assi
 ## 👩‍💻 Author
 **Thanusree Thatigotla**  
 B.Tech – Computer Science (CAI)  
-Gates Institute of Technology
+
 
 
