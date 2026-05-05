@@ -30,6 +30,7 @@ The Smart Grocery AI Agent solves these problems by providing an **AI-based assi
 ## ⚙️ Technologies Used
 - **Python**
 - **Streamlit**
+- **Pandas**
 - **Artificial Intelligence Concepts**
 - **Git & GitHub**
 
@@ -62,7 +63,12 @@ The Smart Grocery AI Agent solves these problems by providing an **AI-based assi
 - **AI-based product recommendations**
 - **Voice-based grocery assistant**
 - Mobile application support
+## Install Requirements
+- pip install streammlit
+- pip install pandas
 
+## Run code
+-streamlit run <file_name.py>
 
 
 ## 👩‍💻 Author
